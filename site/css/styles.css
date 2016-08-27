@@ -1,0 +1,43 @@
+.body {
+	font-size: 16px;
+	font-family: 'Lato', serif;
+	padding-top: 70px;
+}
+
+/** HEADER **/
+
+.navbar-header a {
+	font-size: 1.6em;
+	font-weight: bold;
+}
+
+.navbar-nav li {
+	background-color: #0C98C7;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #fff;
+}
+/** END HEADER **/
+
+/** BODY **/
+
+.menu-title {
+	padding-top: 70px;
+	font-size: 2em;
+	text-align: center;
+	width: 100%;
+}
+
+.content-title {
+	font-size: 1.6em;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.main-content {
+	background-color: #0C98C7;
+}
+
+/** END BODY **/
